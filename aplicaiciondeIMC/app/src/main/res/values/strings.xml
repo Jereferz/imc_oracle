@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">aplicaiciondeIMC</string>
+    <string name="CALCULAR">CALCULAR</string>
+    <string name="title_bajo_peso">Bajo Peso</string>
+    <string name="description_bajo_peso">Bajo Peso</string>
+    <string name="title_peso_normal">Peso normal</string>
+    <string name="description_peso_normal">Peso normal</string>
+    <string name="title_sobrepeso">Sobre Peso</string>
+    <string name="description_sobrepeso">Sobre Peso</string>
+    <string name="title_obesidad">obecidad</string>
+    <string name="description_obesidad">obecidad</string>
+    <string name="error">Error</string>
+    <string name="recalculate">volver</string>
+    <string name="result">resultado</string>
+</resources>
